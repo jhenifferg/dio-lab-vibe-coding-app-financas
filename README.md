@@ -1,4 +1,4 @@
-# 💸 PoupAI — Aplicativo Financeiro Conversacional
+# 💸 PoupAI Finance — Aplicativo Financeiro Conversacional
 
 O **PoupAI** é um aplicativo de organização financeira baseado em *interações por conversa com linguagem natural*. O usuário envia mensagens como “gastei 45 uber” ou “salário 1200”, e o sistema interpreta automaticamente a operação, classificando categorias, atualizando saldo, organizando ciclos financeiros e gerando relatórios completos (incluindo relatório anual).
 
