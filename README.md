@@ -355,10 +355,3 @@ Cada ciclo possui um painel com:
 *   Especificar fluxos linha a linha evita bugs lógicos.
 *   É melhor ser extremamente explícito com regras que parecem óbvias.
 
-
-
-```
-
-
-
-
