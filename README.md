@@ -285,6 +285,8 @@ O sistema é aceito somente se:
 ## 🖼️ 2. Prints e Vídeos das Interações
 
 
+https://github.com/user-attachments/assets/6f6a7b53-575a-4957-a4e4-d91752984ee4
+
 
 ***
 
