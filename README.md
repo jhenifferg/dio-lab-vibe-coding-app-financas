@@ -282,11 +282,9 @@ O sistema é aceito somente se:
 
 ***
 
-## 🖼️ 2. Prints e Vídeos das Interações
-
+## 🖼️ 2. Vídeo das Interações
 
 https://github.com/user-attachments/assets/6f6a7b53-575a-4957-a4e4-d91752984ee4
-
 
 ***
 
@@ -357,11 +355,7 @@ Cada ciclo possui um painel com:
 *   Especificar fluxos linha a linha evita bugs lógicos.
 *   É melhor ser extremamente explícito com regras que parecem óbvias.
 
-***
 
-## 📎 Licença
-
-Escolha e adicione uma licença em `LICENSE` (MIT recomendado).
 
 ```
 
